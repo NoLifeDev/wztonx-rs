@@ -1,0 +1,7 @@
+[package]
+name = "wztonx"
+version = "0.1.0"
+authors = ["Peter Atashian <retep998@gmail.com>"]
+
+[dependencies]
+memmap = "0.6"
