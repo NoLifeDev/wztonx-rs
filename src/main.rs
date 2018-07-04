@@ -1,6 +1,8 @@
 
 extern crate memmap;
 
+mod keys;
+
 use std::env::args_os;
 use std::path::Path;
 
