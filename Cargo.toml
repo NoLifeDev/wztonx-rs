@@ -4,4 +4,5 @@ version = "0.1.0"
 authors = ["Peter Atashian <retep998@gmail.com>"]
 
 [dependencies]
+byteorder = "1.2"
 memmap = "0.6"
